@@ -1,0 +1,22 @@
+{
+  "name": "devteamroster",
+  "version": "1.0.0",
+  "description": "Simple Console based app that uses recursion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlintSable/DevTeamRoster.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlintSable/DevTeamRoster/issues"
+  },
+  "homepage": "https://github.com/FlintSable/DevTeamRoster#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0"
+  }
+}
